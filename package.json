@@ -1,0 +1,15 @@
+{
+  "name": "atom-notes-tweak",
+  "main": "./lib/atom-notes-tweak",
+  "version": "0.0.1",
+  "description": "YOU SHOULD NOT DOWNLOAD THIS PACKAGE. If you are looking for an excellent note-taking package for Atom, you should download the 'Atom Notes' from https://atom.io/packages/atom-notes. I am just doing some experiment with the Atom API.",
+  "keywords": [
+    "notes"
+  ],
+  "repository": "https://github.com/erinata/atom-notes-tweak",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {}
+}
